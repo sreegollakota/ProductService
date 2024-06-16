@@ -1,0 +1,6 @@
+mongo:
+  db:
+    test:
+      enabled: true
+      url: mongodb://localhost:27080
+      image: mongo:latest
